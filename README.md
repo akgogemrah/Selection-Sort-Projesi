@@ -29,3 +29,9 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız. Big-O gösteri
 6.aşama: [11,16,21]---[8,12,22]
 7.aşama: [8,11,12,16,21,22]
 Big-O gösterimi O(nlogn)
+
+
+ # Binary Search Tree Projesi
+[7,5,1,8,3,6,0,9,4,2]
+
+Root 6'dır. Root'un sağında 8 bulunur, solunda 3 bulunur.
